@@ -1,7 +1,6 @@
-# about-me
-درباره من
+# من کی ام؟!
 
-<img src="https://user-images.githubusercontent.com/109177330/185662244-2b7cb597-b532-400e-b71b-7f3cd3265814.jpg" alt="بنر من">
+<img src="https://user-images.githubusercontent.com/109177330/185677384-768d2e18-015e-46c6-956e-2a5dfc655676.svg" alt="just for fun :D">
 
 
 <h1 align="right">🎓 مهارت‌ها: </h1>
