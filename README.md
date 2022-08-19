@@ -22,8 +22,5 @@
 <h4 align="right">⭐️ ساخت ویدیو یوتوب</h4>
 <h4 align="right">⭐️ مشاوره برنامه‌نویسی</h4>
 
-<h2 align="right">🤓 وضعیت من در گیت‌هاب:</h2>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=imrrobat)](https://github.com/imrrobat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrrobat&layout=compact)](https://github.com/imrrobat)
