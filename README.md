@@ -16,12 +16,12 @@
 <h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
 <h3 align="left">🔮 Django | 30%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png">
 <br>
-<h3 align="left">🔮 Kivy/Python | 40%</h3>
-<img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png">
-<h3 align="left">🔮 PyAutoGui | 75%</h3>
-<img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png">
-<h3 align="left">🔮 MySQL | 55%</h3>
-<img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png">
+<h3 align="left">🔮 Kivy/Python | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png">
+<br>
+<h3 align="left">🔮 PyAutoGui | 75%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png">
+<br>
+<h3 align="left">🔮 MySQL | 55%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png">
+<br>
 
 <h2 align="right">🌞 الان مشغول این کارهام: </h2>
 <h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
