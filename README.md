@@ -1,6 +1,6 @@
 # من کی ام؟!
 
-<img src="[https://user-images.githubusercontent.com/109177330/185677384-768d2e18-015e-46c6-956e-2a5dfc655676.svg](https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg)" alt="just for fun :D">
+<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
 <h2 align="center">سلام 👋 من آقای رباتم 🤖</h2>
 <p align="center">برنامه‌نویس پایتونم 🐍 و دوست دارم به همه یادش بدم 🎯 یوتوبر هم هستم 💻 و خلاصه عاشق دنیای کامپیوترها ☺️❤️</p>
